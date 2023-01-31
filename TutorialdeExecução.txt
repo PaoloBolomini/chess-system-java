@@ -1,0 +1,5 @@
+* Abrir o terminal do GitBash dentro da pasta "Bin" do projeto.
+
+* Digitar o comando: java application/Program  e clicar enter.
+
+ 
